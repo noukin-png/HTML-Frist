@@ -1,0 +1,78 @@
+@charset "utf-8";
+
+body{
+  margin: 0;
+}
+
+header {
+  background: rgb(201, 201, 201);
+  margin: 0;
+  text-align: center;
+  padding: 32px;
+}
+
+h1{
+    font-weight: normal;
+    margin: 0;
+    font-size: 24px;
+    margin-top: 16px;
+}
+
+p{
+  margin: 0;
+}
+
+img{
+  margin: 0;
+}
+
+header img{
+  border-radius: 50%;
+}
+
+main{
+  border-bottom: 1px solid gainsboro;
+  padding: 64px 0;
+}
+
+h2{
+  font-weight: normal;
+  margin: 0;
+  font-size: 24px;
+  text-align: center;
+}
+
+h3{
+  font-weight: normal;
+  margin: 16px 0 0;
+}
+
+section{
+  width: 400px;
+  margin: 0 auto;
+}
+
+section img{
+  margin-top: 64px;
+}
+
+section p{
+  margin-top: 16px;
+}
+
+footer{
+  padding: 64px 0;
+  text-align: center;
+}
+
+small{
+  color: rgb(213, 215, 216);
+}
+
+address{
+  margin-top: 16px;
+}
+
+a:hover{
+  opacity: 0.7;
+}
